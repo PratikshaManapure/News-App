@@ -1,0 +1,35 @@
+.heading{
+    text-align: center;
+}
+
+.news-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.news-article-img{
+    height: 200px;
+    display: block;
+    width: 400px;
+    margin: auto;
+}
+
+.news-article-card{
+    margin-bottom: 20px;
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 5px #a8a4a4;
+    padding: 10px;
+
+}
+
+.input{
+    width: 700px;
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
